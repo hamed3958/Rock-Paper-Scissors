@@ -1,7 +1,5 @@
 # Rock, Paper, Scissors
 
-### The challenge
-
 Users could be able to:
 
 - select one of the options, after that CPU makes his choice and then according to the selections the result is displayed in the points section. By clicking the REFRESH button, or by pressing the R key on the keyboard, The game will continue and points will be collected.
@@ -12,7 +10,7 @@ Users could be able to:
 
 ## Links
 
-- Live Site URL: [Play]()
+- Live Site URL: [Let's Play](https://hamed3958.github.io/Rock-Paper-Scissors/)
 
 ### Built with
 
